@@ -51,6 +51,8 @@ The current implementation is fully functional at the DSP level, with a temporar
 
 **Tech:** Unity, Qiskit  
 
+Developed under the UCF Quickstart program, where I was selected to design a grant funded research project in collaboration with Oak Ridge Enhanced Technology and Training Center under a Department of Energy training initiative.
+
 This project is a Unity-based simulation demonstrating how quantum optimization algorithms can be applied to a sensor placement problem. Users place sensors in a virtual facility, define coverage, and run an optimization routine that selects an optimal subset using a QUBO formulation solved with QAOA (via Qiskit).
 
 The Unity application handles visualization and interaction, while optimization is executed by an external Python process and returned via JSON.
