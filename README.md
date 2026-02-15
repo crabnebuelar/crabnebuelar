@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a Computer Science and Mathematics student at the University of Central Florida with a strong foundation in data structures, algorithms, and systems-level programming. I am particularly interested in native programming (C/C++), performance-oriented design, and building clean, modular systems from first principles.
+I am a Computer Science and Mathematics student at the University of Central Florida with a strong foundation in data structures, algorithms, and systems-level programming. I’m especially interested in native programming with C/C++ and writing software that is efficient, reliable, and thoughtfully designed.
 
 
 ---
