@@ -20,7 +20,6 @@ I am a Computer Science and Mathematics student at the University of Central Flo
 **Repository:** [ADSREchoVST](https://github.com/crabnebuelar/ADSREchoVST)
 
 (View the .README in the repository for more information.)
-### Overview
 
 ADSR Echo is a cross-platform JUCE audio plugin (VST3/AU) built in C++ that serves as a modular hub for reverb and time-based effects in digital audio production. This was developed as a group project, with my contributions involving development of the routing and architecture of the audio processing.
 
